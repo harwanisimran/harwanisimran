@@ -16,7 +16,7 @@
 
 - [iOS](https://developer.apple.com)
 - [Swift](https://docs.swift.org/swift-book/)
-- [Flutetr](https://flutter.dev)
+- [Flutter](https://flutter.dev)
 - 🎯[Dart](https://dart.dev)
 
 ## 🛠️ Skills

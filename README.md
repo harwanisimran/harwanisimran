@@ -19,8 +19,6 @@
 - [Flutetr](https://flutter.dev)
 - 🎯[Dart](https://dart.dev)
 
-## 🚀 Tech Stack
-
 ## 🛠️ Skills
 
 - Material Design, Firebase,Google Maps, Direction API, RX Dart, Rest API, NoSQL, Notification, Localization, Swift, UIKit, Storyboard, Xib, Flutter Provider, Git, Git Flow.
@@ -40,5 +38,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=harwansimran">
 </a>
-<a href="https://github.com/harwanisimran?tab=followers"><img src="https://img.shields.io/github/followers/harwansimran?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/harwanisimran?tab=followers"><img src="https://img.shields.io/github/followers/harwanisimran?label=Followers&style=social" alt="GitHub Badge"></a>
 
